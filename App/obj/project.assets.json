@@ -1591,11 +1591,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Soni\\Desktop\\Application\\app\\App.csproj",
+      "projectUniqueName": "C:\\Users\\Soni\\Desktop\\Application\\Dotnet\\app\\App.csproj",
       "projectName": "App",
-      "projectPath": "C:\\Users\\Soni\\Desktop\\Application\\app\\App.csproj",
+      "projectPath": "C:\\Users\\Soni\\Desktop\\Application\\Dotnet\\app\\App.csproj",
       "packagesPath": "C:\\Users\\Soni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Soni\\Desktop\\Application\\app\\obj\\",
+      "outputPath": "C:\\Users\\Soni\\Desktop\\Application\\Dotnet\\app\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Soni\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1612,14 +1612,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Soni\\Desktop\\Application\\BLL\\BLL.csproj": {
-              "projectPath": "C:\\Users\\Soni\\Desktop\\Application\\BLL\\BLL.csproj"
+            "C:\\Users\\Soni\\Desktop\\Application\\Dotnet\\BLL\\BLL.csproj": {
+              "projectPath": "C:\\Users\\Soni\\Desktop\\Application\\Dotnet\\BLL\\BLL.csproj"
             },
-            "C:\\Users\\Soni\\Desktop\\Application\\BOL\\BOL.csproj": {
-              "projectPath": "C:\\Users\\Soni\\Desktop\\Application\\BOL\\BOL.csproj"
+            "C:\\Users\\Soni\\Desktop\\Application\\Dotnet\\BOL\\BOL.csproj": {
+              "projectPath": "C:\\Users\\Soni\\Desktop\\Application\\Dotnet\\BOL\\BOL.csproj"
             },
-            "C:\\Users\\Soni\\Desktop\\Application\\DAL\\DAL.csproj": {
-              "projectPath": "C:\\Users\\Soni\\Desktop\\Application\\DAL\\DAL.csproj"
+            "C:\\Users\\Soni\\Desktop\\Application\\Dotnet\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Users\\Soni\\Desktop\\Application\\Dotnet\\DAL\\DAL.csproj"
             }
           }
         }

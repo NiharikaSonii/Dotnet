@@ -9,57 +9,57 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = App
 build_property.RootNamespace = App
-build_property.ProjectDir = C:\Users\Soni\Desktop\Application\app\
+build_property.ProjectDir = C:\Users\Soni\Desktop\Application\Dotnet\app\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Soni\Desktop\Application\app
+build_property.MSBuildProjectDirectory = C:\Users\Soni\Desktop\Application\Dotnet\app
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Soni/Desktop/Application/app/Views/Home/ErrorPage.cshtml]
+[C:/Users/Soni/Desktop/Application/Dotnet/app/Views/Home/ErrorPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFcnJvclBhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Soni/Desktop/Application/app/Views/Home/Index.cshtml]
+[C:/Users/Soni/Desktop/Application/Dotnet/app/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Soni/Desktop/Application/app/Views/Home/Login.cshtml]
+[C:/Users/Soni/Desktop/Application/Dotnet/app/Views/Home/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Soni/Desktop/Application/app/Views/Home/newPage.cshtml]
+[C:/Users/Soni/Desktop/Application/Dotnet/app/Views/Home/newPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxuZXdQYWdlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Soni/Desktop/Application/app/Views/Home/Privacy.cshtml]
+[C:/Users/Soni/Desktop/Application/Dotnet/app/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Soni/Desktop/Application/app/Views/Home/Registration.cshtml]
+[C:/Users/Soni/Desktop/Application/Dotnet/app/Views/Home/Registration.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3RyYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Soni/Desktop/Application/app/Views/Home/TrainerPage.cshtml]
+[C:/Users/Soni/Desktop/Application/Dotnet/app/Views/Home/TrainerPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUcmFpbmVyUGFnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Soni/Desktop/Application/app/Views/Shared/Error.cshtml]
+[C:/Users/Soni/Desktop/Application/Dotnet/app/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Soni/Desktop/Application/app/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Soni/Desktop/Application/Dotnet/app/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Soni/Desktop/Application/app/Views/_ViewImports.cshtml]
+[C:/Users/Soni/Desktop/Application/Dotnet/app/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Soni/Desktop/Application/app/Views/_ViewStart.cshtml]
+[C:/Users/Soni/Desktop/Application/Dotnet/app/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Soni/Desktop/Application/app/Views/Shared/_Layout.cshtml]
+[C:/Users/Soni/Desktop/Application/Dotnet/app/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-78367sr58w

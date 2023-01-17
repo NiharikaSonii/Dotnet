@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y3zbrFMDIOctbntS/6nJZ7NL64TzFKr2KrraSWUtNfHjayqt8AOSIpjyWdoTfznzqnohj2T8YMm3BGgLjuZBzg==",
+  "dgSpecHash": "YqWcAvcQEW8Ove2XEs/cmVREub+gcOdmzptWHDJaKSL2IuSL+/+qRSY8LASOOcOzsBqYWOh/HWriHEmqKuinfw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Soni\\Desktop\\Application\\app\\App.csproj",
+  "projectFilePath": "C:\\Users\\Soni\\Desktop\\Application\\Dotnet\\app\\App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Soni\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
     "C:\\Users\\Soni\\.nuget\\packages\\k4os.compression.lz4\\1.2.6\\k4os.compression.lz4.1.2.6.nupkg.sha512",

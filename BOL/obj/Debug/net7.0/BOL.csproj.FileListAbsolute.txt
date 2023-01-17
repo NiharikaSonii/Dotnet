@@ -10,3 +10,15 @@ C:\Users\Soni\Desktop\Application\BOL\obj\Debug\net7.0\BOL.dll
 C:\Users\Soni\Desktop\Application\BOL\obj\Debug\net7.0\refint\BOL.dll
 C:\Users\Soni\Desktop\Application\BOL\obj\Debug\net7.0\BOL.pdb
 C:\Users\Soni\Desktop\Application\BOL\obj\Debug\net7.0\ref\BOL.dll
+C:\Users\Soni\Desktop\Application\Dotnet\BOL\bin\Debug\net7.0\BOL.deps.json
+C:\Users\Soni\Desktop\Application\Dotnet\BOL\bin\Debug\net7.0\BOL.dll
+C:\Users\Soni\Desktop\Application\Dotnet\BOL\bin\Debug\net7.0\BOL.pdb
+C:\Users\Soni\Desktop\Application\Dotnet\BOL\obj\Debug\net7.0\BOL.csproj.AssemblyReference.cache
+C:\Users\Soni\Desktop\Application\Dotnet\BOL\obj\Debug\net7.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soni\Desktop\Application\Dotnet\BOL\obj\Debug\net7.0\BOL.AssemblyInfoInputs.cache
+C:\Users\Soni\Desktop\Application\Dotnet\BOL\obj\Debug\net7.0\BOL.AssemblyInfo.cs
+C:\Users\Soni\Desktop\Application\Dotnet\BOL\obj\Debug\net7.0\BOL.csproj.CoreCompileInputs.cache
+C:\Users\Soni\Desktop\Application\Dotnet\BOL\obj\Debug\net7.0\BOL.dll
+C:\Users\Soni\Desktop\Application\Dotnet\BOL\obj\Debug\net7.0\refint\BOL.dll
+C:\Users\Soni\Desktop\Application\Dotnet\BOL\obj\Debug\net7.0\BOL.pdb
+C:\Users\Soni\Desktop\Application\Dotnet\BOL\obj\Debug\net7.0\ref\BOL.dll

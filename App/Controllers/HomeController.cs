@@ -1,5 +1,6 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
+using System;
 using App.Models;
 using BLL;
 using BOL;
@@ -14,12 +15,7 @@ public class HomeController : Controller
         _logger = logger;
     }
 
-    public IActionResult Index()
-    {
-     Data d1=new Data();
-     List<salgrade> lis = d1.getList();
-     this.ViewData["lis"] =lis;
-     
+    public IActionResult Index(){
         return View();
     }
 
@@ -58,9 +54,25 @@ public class HomeController : Controller
             return Redirect("/home/ErrorPage");
         }
     }
-    public IActionResult reg()
+
+    public IActionResult reg(string idn,string name,string address,string datej)
     {
-        return Redirect("/home/newPage");
+        var int1 = Int16.Parse(idn);
+        TrainerD trainer = new TrainerD{
+            id=int1,
+            name = name,
+            address = address,
+            doj = datej
+        };
+        Data data = new Data();
+        bool status = data.insert(trainer);
+
+        if(status){
+            return Redirect("/home/newPage");
+        }
+        else{
+             return Redirect("/home/ErrorPage");
+        }
     }
 
 
